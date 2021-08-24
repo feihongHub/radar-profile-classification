@@ -1,2 +1,2 @@
-# radar-profile-classification
-Recognition of thunderstorm and windy weather based on CNN.
+# Radar-profile-classification-based-on-deep-learning
+In this case, radar image classification is implemented based on CNN.
